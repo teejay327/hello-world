@@ -1,2 +1,4 @@
 # hello-world
-A store for resources
+Hi everyone
+Ready to roll with JS and .NET
+Over and out!
